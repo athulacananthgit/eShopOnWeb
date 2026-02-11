@@ -9,7 +9,7 @@ env:
   LOCATION: westus3
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: da53fb51-25d9-454b-bc21-f09308b735fd
-  WEBAPP-NAME: eshoponweb-webapp-59051078
+  WEBAPP-NAME: eshoponweb-59051078
 
 jobs:
   #Build, test and publish .net web project in repository
